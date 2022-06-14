@@ -28,3 +28,5 @@ def doSomethingElse(value=0):
 def doSomethingNew():
 
     print('this is a new function')
+    
+    print('Hello world')
